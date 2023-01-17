@@ -1,0 +1,14 @@
+{
+  "Iron Rod": {
+    "chn": "铁棒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30931.png"
+  },
+  "Steel Rod": {
+    "chn": "钢棒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30932.png"
+  },
+  "Aluminium Rod": {
+    "chn": "铝棒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30933.png"
+  }
+}

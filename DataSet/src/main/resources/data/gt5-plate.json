@@ -1,0 +1,402 @@
+{
+  "Beryllium Plate": {
+    "chn": "铍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57240.png"
+  },
+  "Manganese Plate": {
+    "chn": "锰板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57241.png"
+  },
+  "Nickel Plate": {
+    "chn": "镍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57242.png"
+  },
+  "Zinc Plate": {
+    "chn": "锌板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57243.png"
+  },
+  "Gallium Plate": {
+    "chn": "镓板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57244.png"
+  },
+  "Gold Plate": {
+    "chn": "金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57245.png"
+  },
+  "Lead Plate": {
+    "chn": "铅板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57246.png"
+  },
+  "Electrum Plate": {
+    "chn": "琥珀金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57247.png"
+  },
+  "Red Alloy Plate": {
+    "chn": "红色合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57248.png"
+  },
+  "Cupronickel Plate": {
+    "chn": "白铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57249.png"
+  },
+  "Nichrome Plate": {
+    "chn": "镍铬合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57250.png"
+  },
+  "Kanthal Plate": {
+    "chn": "坝塔尔合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57251.png"
+  },
+  "Naquadah Plate": {
+    "chn": "硅岩板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57252.png"
+  },
+  "Naquadah Alloy Plate": {
+    "chn": "硅岩合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57253.png"
+  },
+  "Enriched Naquadah Plate": {
+    "chn": "富集硅岩板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57254.png"
+  },
+  "Annealed Copper Plate": {
+    "chn": "退火铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57261.png"
+  },
+  "Vanadium-Gallium Plate": {
+    "chn": "钒镓合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57268.png"
+  },
+  "Yttrium Barium Cuprate Plate": {
+    "chn": "钇钡铜氧合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57269.png"
+  },
+  "Niobium-Titanium Plate": {
+    "chn": "铌钛合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57270.png"
+  },
+  "Tin Alloy Plate": {
+    "chn": "锡铁合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57271.png"
+  },
+  "Tungstencarbide Plate": {
+    "chn": "碳化钨板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57272.png"
+  },
+  "Vanadiumsteel Plate": {
+    "chn": "钒钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57273.png"
+  },
+  "HSS-G Plate": {
+    "chn": "高速钢-G板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57274.png"
+  },
+  "HSS-E Plate": {
+    "chn": "高速钢-E板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57275.png"
+  },
+  "Epoxy Resin Sheet": {
+    "chn": "环氧树脂片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57277.png"
+  },
+  "Silicone Rubber Sheet": {
+    "chn": "硅橡胶片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57278.png"
+  },
+  "Polytetrafluoroethylene Sheet": {
+    "chn": "聚四氟乙烯片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57280.png"
+  },
+  "Diamond Plate": {
+    "chn": "钻石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57281.png"
+  },
+  "Ruby Plate": {
+    "chn": "红宝石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57282.png"
+  },
+  "Sapphire Plate": {
+    "chn": "蓝宝石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57283.png"
+  },
+  "Topaz Plate": {
+    "chn": "黄玉板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57284.png"
+  },
+  "Sodalite Plate": {
+    "chn": "方钠石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57286.png"
+  },
+  "Enderpearl Plate": {
+    "chn": "末影珍珠板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57287.png"
+  },
+  "Endereye Plate": {
+    "chn": "末影之眼板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57288.png"
+  },
+  "Glass Pane": {
+    "chn": "玻璃板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57289.png"
+  },
+  "Gallium Arsenide Plate": {
+    "chn": "砷化镓板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57290.png"
+  },
+  "Indium Gallium Phosphide Plate": {
+    "chn": "磷化铟镓板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57291.png"
+  },
+  "Double Beryllium Plate": {
+    "chn": "双层铍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57292.png"
+  },
+  "Double Aluminium Plate": {
+    "chn": "双层铝板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57293.png"
+  },
+  "Double Iron Plate": {
+    "chn": "双层铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57294.png"
+  },
+  "Double Steel Plate": {
+    "chn": "双层钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57295.png"
+  },
+  "Double Vanadiumsteel Plate": {
+    "chn": "双层钒钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57296.png"
+  },
+  "Dense Iron Plate": {
+    "chn": "致密铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57298.png"
+  },
+  "Dense Lead Plate": {
+    "chn": "致密铅板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57299.png"
+  },
+  "Osmiridium Plate": {
+    "chn": "铱锇合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64924.png"
+  },
+  "Magnetic Neodymium Plate": {
+    "chn": "磁化钕板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64926.png"
+  },
+  "Green Sapphire Plate": {
+    "chn": "绿色蓝宝石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64927.png"
+  },
+  "Opal Plate": {
+    "chn": "猫眼石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64928.png"
+  },
+  "Jasper Plate": {
+    "chn": "碧玉板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64929.png"
+  },
+  "Blue Topaz Plate": {
+    "chn": "蓝黄玉板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64930.png"
+  },
+  "Red Garnet Plate": {
+    "chn": "红石榴石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64931.png"
+  },
+  "Yellow Garnet Plate": {
+    "chn": "黄石榴石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64932.png"
+  },
+  "Polyphenylene Sulfide Plate": {
+    "chn": "聚苯硫醚板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64933.png"
+  },
+  "Styrene-Butadiene Rubber Sheet": {
+    "chn": "丁苯橡胶片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64934.png"
+  },
+  "Polyvinyl Chloride Sheet": {
+    "chn": "聚氯乙烯片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64935.png"
+  },
+  "Fiber-Reinforced Epoxy Resin Sheet": {
+    "chn": "纤维强化的环氧树脂片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/68798.png"
+  },
+  "Cobalt Plate": {
+    "chn": "钴板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/76971.png"
+  },
+  "Carbon Plate": {
+    "chn": "碳板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170155.png"
+  },
+  "Molybdenum Plate": {
+    "chn": "钼板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170156.png"
+  },
+  "Palladium Plate": {
+    "chn": "钯板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170157.png"
+  },
+  "Neodymium Plate": {
+    "chn": "钕板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170158.png"
+  },
+  "Bismuth Plate": {
+    "chn": "铋板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170159.png"
+  },
+  "Thorium Plate": {
+    "chn": "钍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170160.png"
+  },
+  "Uranium 235 Plate": {
+    "chn": "铀-235板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170161.png"
+  },
+  "Uranium 238 Plate": {
+    "chn": "铀-238板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170162.png"
+  },
+  "Plutonium 239 Plate": {
+    "chn": "钚-239板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170163.png"
+  },
+  "Pig Iron Plate": {
+    "chn": "生铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170164.png"
+  },
+  "Soldering Alloy Plate": {
+    "chn": "焊锡板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170165.png"
+  },
+  "Naquadria Plate": {
+    "chn": "超能硅岩板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170166.png"
+  },
+  "Duranium Plate": {
+    "chn": "铿铀板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170167.png"
+  },
+  "Tritanium Plate": {
+    "chn": "三钛板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170168.png"
+  },
+  "Mithril Plate": {
+    "chn": "秘银板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170169.png"
+  },
+  "Black Steel Plate": {
+    "chn": "黑钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170170.png"
+  },
+  "Damascus Steel Plate": {
+    "chn": "大马士革钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170171.png"
+  },
+  "Ultimet Plate": {
+    "chn": "哈氏合金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170172.png"
+  },
+  "Red Steel Plate": {
+    "chn": "红钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170173.png"
+  },
+  "Blue Steel Plate": {
+    "chn": "蓝钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170174.png"
+  },
+  "Sterling Silver Plate": {
+    "chn": "标准纯银板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170175.png"
+  },
+  "Rose Gold Plate": {
+    "chn": "玫瑰金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170176.png"
+  },
+  "Black Bronze Plate": {
+    "chn": "黑青铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170177.png"
+  },
+  "Bismuth Bronze Plate": {
+    "chn": "铋青铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170178.png"
+  },
+  "Magnetic Iron Plate": {
+    "chn": "磁化铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170179.png"
+  },
+  "Magnetic Steel Plate": {
+    "chn": "磁化钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170180.png"
+  },
+  "HSS-S Plate": {
+    "chn": "高速钢-S板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170181.png"
+  },
+  "Polycaprolactam Sheet": {
+    "chn": "聚己内酰胺片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170182.png"
+  },
+  "Tanzanite Plate": {
+    "chn": "坦桑石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170183.png"
+  },
+  "Amethyst Plate": {
+    "chn": "紫水晶板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170184.png"
+  },
+  "Amber Plate": {
+    "chn": "琥珀板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170185.png"
+  },
+  "Dilithium Plate": {
+    "chn": "双锂板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170186.png"
+  },
+  "Certus Quartz Plate": {
+    "chn": "赛特斯石英板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170187.png"
+  },
+  "Nether Quartz Plate": {
+    "chn": "下界石英板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170188.png"
+  },
+  "Nickel-Zinc Ferrite Plate": {
+    "chn": "镍锌铁氧体板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170189.png"
+  },
+  "Polystyrene Sheet": {
+    "chn": "聚苯乙烯片",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170190.png"
+  },
+  "Redstone Plate": {
+    "chn": "红石板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170191.png"
+  },
+  "Black Granite Plate": {
+    "chn": "黑花岗岩板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170192.png"
+  },
+  "Red Granite Plate": {
+    "chn": "红花岗岩板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170193.png"
+  },
+  "Sealed Wood Plank": {
+    "chn": "蜡封木板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170194.png"
+  },
+  "Carton": {
+    "chn": "厚纸板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170267.png"
+  },
+  "Cardboard": {
+    "chn": "卡纸",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170268.png"
+  },
+  "Thick Cardboard": {
+    "chn": "厚卡纸",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170269.png"
+  }
+}

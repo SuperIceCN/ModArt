@@ -1,4 +1,4 @@
-package texture.echo;
+package site.superice.modart.cp.echo;
 
 import ai.djl.Device;
 import ai.djl.MalformedModelException;
@@ -25,7 +25,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import site.superice.modart.texture.data.EchoDataSet;
+import site.superice.modart.cp.data.EchoDataSet;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -34,6 +34,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
+/**
+ * This class is used for training the main model of ColorPortal, which is named "Echo".
+ */
 public class TrainEcho {
     public static int DEFAULT_BATCH_SIZE = 64;
     @NotNull
@@ -57,10 +60,10 @@ public class TrainEcho {
         var start = System.currentTimeMillis();
         var trainer = new TrainEcho();
         // 480
-        for (int i = 0; i < 16 ; i++) {
+        for (int i = 0; i < 16; i++) {
             System.out.println("Start training: tier " + i);
             try {
-                trainer.train(Paths.get("./TextureArt/target/model/echo"), 4,
+                trainer.train(Paths.get("./ColorPortal/src/main/resources/model/base"), 4,
                         EchoDataSet.builder().length(512 * 32).setSampling(DEFAULT_BATCH_SIZE, true)
                                 .optDevice(Device.gpu()).build(),
                         EchoDataSet.builder().length(512).setSampling(DEFAULT_BATCH_SIZE, true)
@@ -74,7 +77,7 @@ public class TrainEcho {
     }
 
     public void train(@NotNull Path savePath, int numEpochs, @NotNull RandomAccessDataset trainDataSet,
-                             @NotNull RandomAccessDataset testDataSet) throws TranslateException, IOException {
+                      @NotNull RandomAccessDataset testDataSet) throws TranslateException, IOException {
         var start = System.currentTimeMillis();
 
         trainDataSet.prepare();
@@ -89,7 +92,7 @@ public class TrainEcho {
                 .addEvaluator(loss)
                 .addTrainingListeners(TrainingListener.Defaults.logging());
 
-        try (Model model = Model.newInstance("mlp")) {
+        try (Model model = Model.newInstance("cp")) {
             model.setBlock(loadModelBlocks());
             // 继续训练
             if (savePath.toFile().exists()) {
@@ -131,7 +134,7 @@ public class TrainEcho {
                 //noinspection ResultOfMethodCallIgnored
                 Objects.requireNonNull(savePath.toFile().listFiles())[0].delete();
             }
-            model.save(savePath, "mlp");
+            model.save(savePath, "cp");
         }
     }
 
@@ -145,13 +148,10 @@ public class TrainEcho {
         var net = new SequentialBlock();
         net.add(new LambdaBlock(input -> {
                     var i = input.get(0);
-//                    System.out.println("colorNetInputShape: " + i.getShape());
                     if (i.getShape().dimension() == 3) {
                         var tmp = i.reshape(new Shape(1, 3, 32, 32));
-//                        System.out.println("colorNetOutputShape: " + tmp.getShape());
                         return new NDList(tmp);
                     } else {
-//                        System.out.println("colorNetOutputShape: " + i.getShape());
                         return new NDList(i);
                     }
                 }))
@@ -184,13 +184,11 @@ public class TrainEcho {
                 .add(new LambdaBlock(input -> {
                     var i = input.singletonOrThrow();
                     var shape = i.getShape();
-//                    System.out.println("FinalInputShape: " + shape);
                     var tmp = i.reshape(new Shape(shape.get(0), 3, 16, 16));
-//                    System.out.println("FinalOutputShape: " + tmp.getShape());
                     return new NDList(tmp);
                 }));
-                net.setInitializer(new XavierInitializer(), Parameter.Type.WEIGHT);
-                net.setInitializer(new NormalInitializer(), Parameter.Type.BIAS);
+        net.setInitializer(new XavierInitializer(), Parameter.Type.WEIGHT);
+        net.setInitializer(new NormalInitializer(), Parameter.Type.BIAS);
         return net;
     }
 }

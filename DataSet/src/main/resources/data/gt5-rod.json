@@ -1,0 +1,402 @@
+{
+  "Magnetic Iron Rod": {
+    "chn": "磁化铁杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8944.png"
+  },
+  "Magnetic Neodymium Rod": {
+    "chn": "磁化钕杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8956.png"
+  },
+  "Magnetic Steel Rod": {
+    "chn": "磁化钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8957.png"
+  },
+  "Tungstensteel Rod": {
+    "chn": "钨钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8958.png"
+  },
+  "Stainless Steel Rod": {
+    "chn": "不锈钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8959.png"
+  },
+  "Steel Rod": {
+    "chn": "钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8960.png"
+  },
+  "Wrought Iron Rod": {
+    "chn": "锻铁杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8961.png"
+  },
+  "Iron Rod": {
+    "chn": "铁杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8962.png"
+  },
+  "Titanium Rod": {
+    "chn": "钛杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8963.png"
+  },
+  "Aluminium Rod": {
+    "chn": "铝杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/0/8964.png"
+  },
+  "Brass Rod": {
+    "chn": "黄铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44404.png"
+  },
+  "Electrum Rod": {
+    "chn": "琥珀金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44409.png"
+  },
+  "Chrome Rod": {
+    "chn": "铬杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44410.png"
+  },
+  "Platinum Rod": {
+    "chn": "铂杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44475.png"
+  },
+  "Osmium Rod": {
+    "chn": "锇杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44476.png"
+  },
+  "Lapis Rod": {
+    "chn": "青金石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45537.png"
+  },
+  "Bronze Rod": {
+    "chn": "青铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46352.png"
+  },
+  "Tin Rod": {
+    "chn": "锡杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46353.png"
+  },
+  "Soldering Alloy Rod": {
+    "chn": "焊锡杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46401.png"
+  },
+  "Invar Rod": {
+    "chn": "殷钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/50387.png"
+  },
+  "Plutonium 241 Rod": {
+    "chn": "钚-241杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/50626.png"
+  },
+  "Cobalt Brass Rod": {
+    "chn": "钴黄铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51197.png"
+  },
+  "Blue Steel Rod": {
+    "chn": "蓝钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51224.png"
+  },
+  "Black Steel Rod": {
+    "chn": "黑钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51466.png"
+  },
+  "Neodymium Rod": {
+    "chn": "钕杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57300.png"
+  },
+  "Europium Rod": {
+    "chn": "铕杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57301.png"
+  },
+  "Americium Rod": {
+    "chn": "镅杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57302.png"
+  },
+  "Neutronium Rod": {
+    "chn": "中子素杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57303.png"
+  },
+  "Enriched Naquadah Rod": {
+    "chn": "富集硅岩杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57304.png"
+  },
+  "HSS-G Rod": {
+    "chn": "高速钢-G杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57305.png"
+  },
+  "HSS-E Rod": {
+    "chn": "高速钢-E杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57306.png"
+  },
+  "Lazurite Rod": {
+    "chn": "蓝金石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57309.png"
+  },
+  "Sodalite Rod": {
+    "chn": "方钠石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57310.png"
+  },
+  "Polyethylene Rod": {
+    "chn": "聚乙烯杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57311.png"
+  },
+  "Long Titanium Rod": {
+    "chn": "长钛杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57459.png"
+  },
+  "Long Americium Rod": {
+    "chn": "长镅杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57460.png"
+  },
+  "Long Wrought Iron Rod": {
+    "chn": "长锻铁杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57461.png"
+  },
+  "Long Tungstensteel Rod": {
+    "chn": "长钨钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57462.png"
+  },
+  "Iridium Rod": {
+    "chn": "铱杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/60288.png"
+  },
+  "Tungsten Rod": {
+    "chn": "钨杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/60292.png"
+  },
+  "Lead Rod": {
+    "chn": "铅杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/60629.png"
+  },
+  "Copper Rod": {
+    "chn": "铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64936.png"
+  },
+  "Silver Rod": {
+    "chn": "银杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64937.png"
+  },
+  "Uranium 235 Rod": {
+    "chn": "铀-235杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64938.png"
+  },
+  "Cupronickel Rod": {
+    "chn": "白铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64939.png"
+  },
+  "Nichrome Rod": {
+    "chn": "镍铬合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64940.png"
+  },
+  "Kanthal Rod": {
+    "chn": "坝塔尔合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64941.png"
+  },
+  "Magnalium Rod": {
+    "chn": "镁铝合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64942.png"
+  },
+  "Osmiridium Rod": {
+    "chn": "铱锇合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64943.png"
+  },
+  "Naquadah Rod": {
+    "chn": "硅岩杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64944.png"
+  },
+  "Tritanium Rod": {
+    "chn": "三钛杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64945.png"
+  },
+  "Polytetrafluoroethylene Rod": {
+    "chn": "聚四氟乙烯杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64946.png"
+  },
+  "Long Neodymium Rod": {
+    "chn": "长钕杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65035.png"
+  },
+  "Long Neutronium Rod": {
+    "chn": "长中子素杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65036.png"
+  },
+  "Long Magnalium Rod": {
+    "chn": "长镁铝合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65037.png"
+  },
+  "Long Magnetic Neodymium Rod": {
+    "chn": "长磁化钕杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65038.png"
+  },
+  "Long HSS-G Rod": {
+    "chn": "长高速钢-G杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65039.png"
+  },
+  "Long HSS-E Rod": {
+    "chn": "长高速钢-E杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/65040.png"
+  },
+  "Nickel-Zinc Ferrite Rod": {
+    "chn": "镍锌铁氧体杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/11/110699.png"
+  },
+  "Beryllium Rod": {
+    "chn": "铍杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170270.png"
+  },
+  "Carbon Rod": {
+    "chn": "碳杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170271.png"
+  },
+  "Manganese Rod": {
+    "chn": "锰杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170272.png"
+  },
+  "Cobalt Rod": {
+    "chn": "钴杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170273.png"
+  },
+  "Nickel Rod": {
+    "chn": "镍杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170274.png"
+  },
+  "Molybdenum Rod": {
+    "chn": "钼杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170275.png"
+  },
+  "Palladium Rod": {
+    "chn": "钯杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170276.png"
+  },
+  "Gold Rod": {
+    "chn": "金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170277.png"
+  },
+  "Bismuth Rod": {
+    "chn": "铋杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170278.png"
+  },
+  "Thorium Rod": {
+    "chn": "钍杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170279.png"
+  },
+  "Uranium 238 Rod": {
+    "chn": "铀-238杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170280.png"
+  },
+  "Plutonium 239 Rod": {
+    "chn": "钚-239杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170281.png"
+  },
+  "Pig Iron Rod": {
+    "chn": "生铁杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170282.png"
+  },
+  "Naquadah Alloy Rod": {
+    "chn": "硅岩合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170283.png"
+  },
+  "Naquadria Rod": {
+    "chn": "超能硅岩杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170284.png"
+  },
+  "Duranium Rod": {
+    "chn": "铿铀杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170285.png"
+  },
+  "Mithril Rod": {
+    "chn": "秘银杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170286.png"
+  },
+  "Damascus Steel Rod": {
+    "chn": "大马士革钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170287.png"
+  },
+  "Ultimet Rod": {
+    "chn": "哈氏合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170288.png"
+  },
+  "Red Steel Rod": {
+    "chn": "红钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170289.png"
+  },
+  "Sterling Silver Rod": {
+    "chn": "标准纯银杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170290.png"
+  },
+  "Rose Gold Rod": {
+    "chn": "玫瑰金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170291.png"
+  },
+  "Black Bronze Rod": {
+    "chn": "黑青铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170292.png"
+  },
+  "Bismuth Bronze Rod": {
+    "chn": "铋青铜杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170293.png"
+  },
+  "Vanadium-Gallium Rod": {
+    "chn": "钒镓合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170294.png"
+  },
+  "Tin Alloy Rod": {
+    "chn": "锡铁合金杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170295.png"
+  },
+  "Tungstencarbide Rod": {
+    "chn": "碳化钨杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170296.png"
+  },
+  "Vanadiumsteel Rod": {
+    "chn": "钒钢杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170297.png"
+  },
+  "HSS-S Rod": {
+    "chn": "高速钢-S杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170298.png"
+  },
+  "Epoxy Resin Rod": {
+    "chn": "环氧树脂杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170299.png"
+  },
+  "Silicone Rubber Rod": {
+    "chn": "硅橡胶杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170300.png"
+  },
+  "Polycaprolactam Rod": {
+    "chn": "聚己内酰胺杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170301.png"
+  },
+  "Diamond Rod": {
+    "chn": "钻石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170302.png"
+  },
+  "Emerald Rod": {
+    "chn": "绿宝石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170303.png"
+  },
+  "Ruby Rod": {
+    "chn": "红宝石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170304.png"
+  },
+  "Sapphire Rod": {
+    "chn": "蓝宝石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170305.png"
+  },
+  "Green Sapphire Rod": {
+    "chn": "绿色蓝宝石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170306.png"
+  },
+  "Olivine Rod": {
+    "chn": "橄榄石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170307.png"
+  },
+  "Nether Star Rod": {
+    "chn": "下界之星杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170308.png"
+  },
+  "Topaz Rod": {
+    "chn": "黄玉杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170309.png"
+  },
+  "Tanzanite Rod": {
+    "chn": "坦桑石杆",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170310.png"
+  }
+}

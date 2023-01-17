@@ -1,4 +1,4 @@
-package texture.util;
+package site.superice.modart.cp.util;
 
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.Supplier;

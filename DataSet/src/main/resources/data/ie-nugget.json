@@ -1,0 +1,42 @@
+{
+  "Steel Nugget": {
+    "chn": "钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30925.png"
+  },
+  "Electrum Nugget": {
+    "chn": "琥珀金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30924.png"
+  },
+  "Constantan Nugget": {
+    "chn": "康铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30923.png"
+  },
+  "Aluminium Nugget": {
+    "chn": "铝粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30919.png"
+  },
+  "Nickel Nugget": {
+    "chn": "镍粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30922.png"
+  },
+  "Lead Nugget": {
+    "chn": "铅粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30920.png"
+  },
+  "Iron Nugget": {
+    "chn": "铁粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30917.png"
+  },
+  "Copper Nugget": {
+    "chn": "铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30918.png"
+  },
+  "Silver Nugget": {
+    "chn": "银粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30921.png"
+  },
+  "Uranium Nugget": {
+    "chn": "铀粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78245.png"
+  }
+}

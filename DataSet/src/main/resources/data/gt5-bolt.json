@@ -1,0 +1,386 @@
+{
+  "Beryllium Bolt": {
+    "chn": "铍螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170333.png"
+  },
+  "Carbon Bolt": {
+    "chn": "碳螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170334.png"
+  },
+  "Aluminium Bolt": {
+    "chn": "铝螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170335.png"
+  },
+  "Manganese Bolt": {
+    "chn": "锰螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170336.png"
+  },
+  "Cobalt Bolt": {
+    "chn": "钴螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170337.png"
+  },
+  "Nickel Bolt": {
+    "chn": "镍螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170338.png"
+  },
+  "Molybdenum Bolt": {
+    "chn": "钼螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170339.png"
+  },
+  "Palladium Bolt": {
+    "chn": "钯螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170340.png"
+  },
+  "Silver Bolt": {
+    "chn": "银螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170341.png"
+  },
+  "Neodymium Bolt": {
+    "chn": "钕螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170342.png"
+  },
+  "Platinum Bolt": {
+    "chn": "铂螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170343.png"
+  },
+  "Gold Bolt": {
+    "chn": "金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170344.png"
+  },
+  "Lead Bolt": {
+    "chn": "铅螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170345.png"
+  },
+  "Bismuth Bolt": {
+    "chn": "铋螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170346.png"
+  },
+  "Thorium Bolt": {
+    "chn": "钍螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170347.png"
+  },
+  "Uranium 235 Bolt": {
+    "chn": "铀-235螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170348.png"
+  },
+  "Uranium 238 Bolt": {
+    "chn": "铀-238螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170349.png"
+  },
+  "Plutonium 239 Bolt": {
+    "chn": "钚-239螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170350.png"
+  },
+  "Plutonium 241 Bolt": {
+    "chn": "钚-241螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170351.png"
+  },
+  "Brass Bolt": {
+    "chn": "黄铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170352.png"
+  },
+  "Invar Bolt": {
+    "chn": "殷钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170353.png"
+  },
+  "Electrum Bolt": {
+    "chn": "琥珀金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170354.png"
+  },
+  "Pig Iron Bolt": {
+    "chn": "生铁螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170355.png"
+  },
+  "Cupronickel Bolt": {
+    "chn": "白铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170356.png"
+  },
+  "Nichrome Bolt": {
+    "chn": "镍铬合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170357.png"
+  },
+  "Kanthal Bolt": {
+    "chn": "坝塔尔合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170358.png"
+  },
+  "Magnalium Bolt": {
+    "chn": "镁铝合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170359.png"
+  },
+  "Osmiridium Bolt": {
+    "chn": "铱锇合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170360.png"
+  },
+  "Naquadah Bolt": {
+    "chn": "硅岩螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170361.png"
+  },
+  "Naquadah Alloy Bolt": {
+    "chn": "硅岩合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170362.png"
+  },
+  "Naquadria Bolt": {
+    "chn": "超能硅岩螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170363.png"
+  },
+  "Duranium Bolt": {
+    "chn": "铿铀螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170364.png"
+  },
+  "Tritanium Bolt": {
+    "chn": "三钛螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170365.png"
+  },
+  "Mithril Bolt": {
+    "chn": "秘银螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170366.png"
+  },
+  "Black Steel Bolt": {
+    "chn": "黑钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170367.png"
+  },
+  "Damascus Steel Bolt": {
+    "chn": "大马士革钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170368.png"
+  },
+  "Cobalt Brass Bolt": {
+    "chn": "钴黄铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170369.png"
+  },
+  "Ultimet Bolt": {
+    "chn": "哈氏合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170370.png"
+  },
+  "Red Steel Bolt": {
+    "chn": "红钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170371.png"
+  },
+  "Blue Steel Bolt": {
+    "chn": "蓝钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170372.png"
+  },
+  "Sterling Silver Bolt": {
+    "chn": "标准纯银螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170373.png"
+  },
+  "Rose Gold Bolt": {
+    "chn": "玫瑰金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170374.png"
+  },
+  "Black Bronze Bolt": {
+    "chn": "黑青铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170375.png"
+  },
+  "Bismuth Bronze Bolt": {
+    "chn": "铋青铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170376.png"
+  },
+  "Magnetic Iron Bolt": {
+    "chn": "磁化铁螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170377.png"
+  },
+  "Magnetic Steel Bolt": {
+    "chn": "磁化钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170378.png"
+  },
+  "Magnetic Neodymium Bolt": {
+    "chn": "磁化钕螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170379.png"
+  },
+  "Tin Alloy Bolt": {
+    "chn": "锡铁合金螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170380.png"
+  },
+  "Tungstencarbide Bolt": {
+    "chn": "碳化钨螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170381.png"
+  },
+  "Vanadiumsteel Bolt": {
+    "chn": "钒钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170382.png"
+  },
+  "HSS-S Bolt": {
+    "chn": "高速钢-S螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170383.png"
+  },
+  "Epoxy Resin Bolt": {
+    "chn": "环氧树脂螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170384.png"
+  },
+  "Silicone Rubber Bolt": {
+    "chn": "硅橡胶螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170385.png"
+  },
+  "Polycaprolactam Bolt": {
+    "chn": "聚己内酰胺螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170386.png"
+  },
+  "Polytetrafluoroethylene Bolt": {
+    "chn": "聚四氟乙烯螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170387.png"
+  },
+  "Diamond Bolt": {
+    "chn": "钻石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170388.png"
+  },
+  "Emerald Bolt": {
+    "chn": "绿宝石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170389.png"
+  },
+  "Ruby Bolt": {
+    "chn": "红宝石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170390.png"
+  },
+  "Sapphire Bolt": {
+    "chn": "蓝宝石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170391.png"
+  },
+  "Green Sapphire Bolt": {
+    "chn": "绿色蓝宝石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170392.png"
+  },
+  "Olivine Bolt": {
+    "chn": "橄榄石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170393.png"
+  },
+  "Nether Star Bolt": {
+    "chn": "下界之星螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170394.png"
+  },
+  "Topaz Bolt": {
+    "chn": "黄玉螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170395.png"
+  },
+  "Tanzanite Bolt": {
+    "chn": "坦桑石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170396.png"
+  },
+  "Amethyst Bolt": {
+    "chn": "紫水晶螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170397.png"
+  },
+  "Opal Bolt": {
+    "chn": "猫眼石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170398.png"
+  },
+  "Blue Topaz Bolt": {
+    "chn": "蓝黄玉螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170399.png"
+  },
+  "Amber Bolt": {
+    "chn": "琥珀螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170400.png"
+  },
+  "Certus Quartz Bolt": {
+    "chn": "赛特斯石英螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170401.png"
+  },
+  "Nether Quartz Bolt": {
+    "chn": "下界石英螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170402.png"
+  },
+  "Red Garnet Bolt": {
+    "chn": "红石榴石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170403.png"
+  },
+  "Yellow Garnet Bolt": {
+    "chn": "黄石榴石螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170404.png"
+  },
+  "Fiber-Reinforced Epoxy Resin Bolt": {
+    "chn": "纤维强化的环氧树脂螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170405.png"
+  },
+  "Polyphenylene Sulfide Bolt": {
+    "chn": "聚苯硫醚螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170406.png"
+  },
+  "Styrene-Butadiene Rubber Bolt": {
+    "chn": "丁苯橡胶螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170407.png"
+  },
+  "Polystyrene Bolt": {
+    "chn": "聚苯乙烯螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170408.png"
+  },
+  "Polyvinyl Chloride Bolt": {
+    "chn": "聚氯乙烯螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170409.png"
+  },
+  "Polyethylene Bolt": {
+    "chn": "聚乙烯螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170410.png"
+  },
+  "Rubber Bolt": {
+    "chn": "橡胶螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170411.png"
+  },
+  "Stainless Steel Bolt": {
+    "chn": "不锈钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46357.png"
+  },
+  "Neutronium Bolt": {
+    "chn": "中子素螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57323.png"
+  },
+  "Enriched Naquadah Bolt": {
+    "chn": "富集硅岩螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/11/110700.png"
+  },
+  "Titanium Bolt": {
+    "chn": "钛螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51395.png"
+  },
+  "Steel Bolt": {
+    "chn": "钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46356.png"
+  },
+  "Tungsten Bolt": {
+    "chn": "钨螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57321.png"
+  },
+  "Tungstensteel Bolt": {
+    "chn": "钨钢螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46358.png"
+  },
+  "Iron Bolt": {
+    "chn": "铁螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/44222.png"
+  },
+  "Chrome Bolt": {
+    "chn": "铬螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57320.png"
+  },
+  "Iridium Bolt": {
+    "chn": "铱螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57322.png"
+  },
+  "Osmium Bolt": {
+    "chn": "锇螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64947.png"
+  },
+  "Tin Bolt": {
+    "chn": "锡螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46354.png"
+  },
+  "Wrought Iron Bolt": {
+    "chn": "锻铁螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57324.png"
+  },
+  "Nickel-Zinc Ferrite Bolt": {
+    "chn": "镍锌铁氧体螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/11/110690.png"
+  },
+  "Bronze Bolt": {
+    "chn": "青铜螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/46355.png"
+  },
+  "HSS-E Bolt": {
+    "chn": "高速钢-E螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57326.png"
+  },
+  "HSS-G Bolt": {
+    "chn": "高速钢-G螺栓",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57325.png"
+  }
+}

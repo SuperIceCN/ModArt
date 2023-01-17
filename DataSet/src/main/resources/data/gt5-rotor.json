@@ -1,0 +1,50 @@
+{
+  "Titanium Rotor": {
+    "chn": "钛转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170644.png"
+  },
+  "Stainless Steel Rotor": {
+    "chn": "不锈钢转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45317.png"
+  },
+  "Neutronium Rotor": {
+    "chn": "中子素转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57456.png"
+  },
+  "Steel Rotor": {
+    "chn": "钢转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45316.png"
+  },
+  "Tungstensteel Rotor": {
+    "chn": "钨钢转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45318.png"
+  },
+  "Chrome Rotor": {
+    "chn": "铬转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57453.png"
+  },
+  "Iridium Rotor": {
+    "chn": "铱转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57455.png"
+  },
+  "Osmium Rotor": {
+    "chn": "锇转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57454.png"
+  },
+  "Tin Rotor": {
+    "chn": "锡转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45310.png"
+  },
+  "Bronze Rotor": {
+    "chn": "青铜转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45315.png"
+  },
+  "HSS-E Rotor": {
+    "chn": "高速钢-E转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57458.png"
+  },
+  "HSS-G Rotor": {
+    "chn": "高速钢-G转子",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57457.png"
+  }
+}

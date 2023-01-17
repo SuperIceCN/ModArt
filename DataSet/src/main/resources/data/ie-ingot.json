@@ -1,0 +1,38 @@
+{
+  "Steel Ingot": {
+    "chn": "钢锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30903.png"
+  },
+  "Electrum Ingot": {
+    "chn": "琥珀金锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30902.png"
+  },
+  "Constantan Ingot": {
+    "chn": "康铜锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30901.png"
+  },
+  "Aluminium Ingot": {
+    "chn": "铝锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30897.png"
+  },
+  "Nickel Ingot": {
+    "chn": "镍锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30900.png"
+  },
+  "Lead Ingot": {
+    "chn": "铅锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30898.png"
+  },
+  "Copper Ingot": {
+    "chn": "铜锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30896.png"
+  },
+  "Silver Ingot": {
+    "chn": "银锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30899.png"
+  },
+  "Uranium Ingot": {
+    "chn": "铀锭",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78242.png"
+  }
+}

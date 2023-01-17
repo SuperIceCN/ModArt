@@ -1,4 +1,4 @@
-package texture.echo;
+package site.superice.modart.cp.echo;
 
 import ai.djl.MalformedModelException;
 import ai.djl.Model;
@@ -8,7 +8,8 @@ import ai.djl.ndarray.NDManager;
 import ai.djl.ndarray.types.DataType;
 import ai.djl.translate.NoopTranslator;
 import ai.djl.translate.TranslateException;
-import site.superice.modart.texture.data.EchoDataSet;
+import org.jetbrains.annotations.NotNull;
+import site.superice.modart.cp.data.EchoDataSet;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -23,7 +24,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class DrawEcho {
     public static void main(String[] args) {
-        var modelPath = Paths.get("./TextureArt/target/model/echo");
+        var modelPath = Paths.get("./ColorPortal/src/main/resources/model/base");
 
         var ds = EchoDataSet.builder().setSampling(64, true).build();
         try {
@@ -32,10 +33,10 @@ public class DrawEcho {
             throw new RuntimeException(e);
         }
 
-        try (var model = Model.newInstance("mlp")) {
+        try (var model = Model.newInstance("cp")) {
             model.setBlock(TrainEcho.buildBlocks());
             model.load(modelPath);
-            var outputPath = Path.of("./TextureArt/target/output/echo");
+            var outputPath = Path.of("./ColorPortal/target/output/image");
             //noinspection ResultOfMethodCallIgnored
             outputPath.toFile().mkdirs();
             var result = randomDraw(ds, model, 10);
@@ -53,7 +54,8 @@ public class DrawEcho {
     /**
      * @return Map: ExpectImage, PredictImage
      */
-    public static Map<BufferedImage, BufferedImage> randomDraw(EchoDataSet dataSet, Model model, int count) {
+    @NotNull
+    public static Map<BufferedImage, BufferedImage> randomDraw(@NotNull EchoDataSet dataSet, @NotNull Model model, int count) {
         var predictor = model.newPredictor(new NoopTranslator());
         var outputMap = new HashMap<BufferedImage, BufferedImage>();
         for (int i = 0; i < count; i++) {

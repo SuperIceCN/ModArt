@@ -1,0 +1,394 @@
+{
+  "Beryllium Screw": {
+    "chn": "铍螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170413.png"
+  },
+  "Carbon Screw": {
+    "chn": "碳螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170414.png"
+  },
+  "Aluminium Screw": {
+    "chn": "铝螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170415.png"
+  },
+  "Manganese Screw": {
+    "chn": "锰螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170416.png"
+  },
+  "Cobalt Screw": {
+    "chn": "钴螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170417.png"
+  },
+  "Nickel Screw": {
+    "chn": "镍螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170418.png"
+  },
+  "Molybdenum Screw": {
+    "chn": "钼螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170419.png"
+  },
+  "Palladium Screw": {
+    "chn": "钯螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170420.png"
+  },
+  "Silver Screw": {
+    "chn": "银螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170421.png"
+  },
+  "Neodymium Screw": {
+    "chn": "钕螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170422.png"
+  },
+  "Platinum Screw": {
+    "chn": "铂螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170423.png"
+  },
+  "Gold Screw": {
+    "chn": "金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170424.png"
+  },
+  "Lead Screw": {
+    "chn": "铅螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170425.png"
+  },
+  "Bismuth Screw": {
+    "chn": "铋螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170426.png"
+  },
+  "Thorium Screw": {
+    "chn": "钍螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170427.png"
+  },
+  "Uranium 235 Screw": {
+    "chn": "铀-235螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170428.png"
+  },
+  "Uranium 238 Screw": {
+    "chn": "铀-238螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170429.png"
+  },
+  "Plutonium 239 Screw": {
+    "chn": "钚-239螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170430.png"
+  },
+  "Plutonium 241 Screw": {
+    "chn": "钚-241螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170431.png"
+  },
+  "Brass Screw": {
+    "chn": "黄铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170432.png"
+  },
+  "Invar Screw": {
+    "chn": "殷钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170433.png"
+  },
+  "Electrum Screw": {
+    "chn": "琥珀金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170434.png"
+  },
+  "Pig Iron Screw": {
+    "chn": "生铁螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170435.png"
+  },
+  "Cupronickel Screw": {
+    "chn": "白铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170436.png"
+  },
+  "Nichrome Screw": {
+    "chn": "镍铬合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170437.png"
+  },
+  "Kanthal Screw": {
+    "chn": "坝塔尔合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170438.png"
+  },
+  "Magnalium Screw": {
+    "chn": "镁铝合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170439.png"
+  },
+  "Osmiridium Screw": {
+    "chn": "铱锇合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170440.png"
+  },
+  "Naquadah Screw": {
+    "chn": "硅岩螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170441.png"
+  },
+  "Naquadah Alloy Screw": {
+    "chn": "硅岩合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170442.png"
+  },
+  "Enriched Naquadah Screw": {
+    "chn": "富集硅岩螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170443.png"
+  },
+  "Naquadria Screw": {
+    "chn": "超能硅岩螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170444.png"
+  },
+  "Duranium Screw": {
+    "chn": "铿铀螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170445.png"
+  },
+  "Tritanium Screw": {
+    "chn": "三钛螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170446.png"
+  },
+  "Mithril Screw": {
+    "chn": "秘银螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170447.png"
+  },
+  "Black Steel Screw": {
+    "chn": "黑钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170448.png"
+  },
+  "Damascus Steel Screw": {
+    "chn": "大马士革钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170449.png"
+  },
+  "Cobalt Brass Screw": {
+    "chn": "钴黄铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170450.png"
+  },
+  "Ultimet Screw": {
+    "chn": "哈氏合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170451.png"
+  },
+  "Red Steel Screw": {
+    "chn": "红钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170452.png"
+  },
+  "Blue Steel Screw": {
+    "chn": "蓝钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170453.png"
+  },
+  "Sterling Silver Screw": {
+    "chn": "标准纯银螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170454.png"
+  },
+  "Rose Gold Screw": {
+    "chn": "玫瑰金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170455.png"
+  },
+  "Black Bronze Screw": {
+    "chn": "黑青铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170456.png"
+  },
+  "Bismuth Bronze Screw": {
+    "chn": "铋青铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170457.png"
+  },
+  "Magnetic Iron Screw": {
+    "chn": "磁化铁螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170458.png"
+  },
+  "Magnetic Steel Screw": {
+    "chn": "磁化钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170459.png"
+  },
+  "Magnetic Neodymium Screw": {
+    "chn": "磁化钕螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170460.png"
+  },
+  "Tin Alloy Screw": {
+    "chn": "锡铁合金螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170461.png"
+  },
+  "Tungstencarbide Screw": {
+    "chn": "碳化钨螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170462.png"
+  },
+  "Vanadiumsteel Screw": {
+    "chn": "钒钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170463.png"
+  },
+  "HSS-S Screw": {
+    "chn": "高速钢-S螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170464.png"
+  },
+  "Epoxy Resin Screw": {
+    "chn": "环氧树脂螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170465.png"
+  },
+  "Silicone Rubber Screw": {
+    "chn": "硅橡胶螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170466.png"
+  },
+  "Polycaprolactam Screw": {
+    "chn": "聚己内酰胺螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170467.png"
+  },
+  "Polytetrafluoroethylene Screw": {
+    "chn": "聚四氟乙烯螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170468.png"
+  },
+  "Diamond Screw": {
+    "chn": "钻石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170469.png"
+  },
+  "Emerald Screw": {
+    "chn": "绿宝石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170470.png"
+  },
+  "Ruby Screw": {
+    "chn": "红宝石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170471.png"
+  },
+  "Sapphire Screw": {
+    "chn": "蓝宝石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170472.png"
+  },
+  "Green Sapphire Screw": {
+    "chn": "绿色蓝宝石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170473.png"
+  },
+  "Olivine Screw": {
+    "chn": "橄榄石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170474.png"
+  },
+  "Nether Star Screw": {
+    "chn": "下界之星螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170475.png"
+  },
+  "Topaz Screw": {
+    "chn": "黄玉螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170476.png"
+  },
+  "Tanzanite Screw": {
+    "chn": "坦桑石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170477.png"
+  },
+  "Amethyst Screw": {
+    "chn": "紫水晶螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170478.png"
+  },
+  "Opal Screw": {
+    "chn": "猫眼石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170479.png"
+  },
+  "Blue Topaz Screw": {
+    "chn": "蓝黄玉螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170480.png"
+  },
+  "Amber Screw": {
+    "chn": "琥珀螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170481.png"
+  },
+  "Certus Quartz Screw": {
+    "chn": "赛特斯石英螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170482.png"
+  },
+  "Nether Quartz Screw": {
+    "chn": "下界石英螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170483.png"
+  },
+  "Red Garnet Screw": {
+    "chn": "红石榴石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170484.png"
+  },
+  "Yellow Garnet Screw": {
+    "chn": "黄石榴石螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170485.png"
+  },
+  "Fiber-Reinforced Epoxy Resin Screw": {
+    "chn": "纤维强化的环氧树脂螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170486.png"
+  },
+  "Nickel-Zinc Ferrite Screw": {
+    "chn": "镍锌铁氧体螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170487.png"
+  },
+  "Polyphenylene Sulfide Screw": {
+    "chn": "聚苯硫醚螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170488.png"
+  },
+  "Styrene-Butadiene Rubber Screw": {
+    "chn": "丁苯橡胶螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170489.png"
+  },
+  "Polystyrene Screw": {
+    "chn": "聚苯乙烯螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170490.png"
+  },
+  "Polyvinyl Chloride Screw": {
+    "chn": "聚氯乙烯螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170491.png"
+  },
+  "Wood Screw": {
+    "chn": "木螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170492.png"
+  },
+  "Polyethylene Screw": {
+    "chn": "聚乙烯螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170493.png"
+  },
+  "Rubber Screw": {
+    "chn": "橡胶螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170494.png"
+  },
+  "Sealed Wood Screw": {
+    "chn": "蜡封木螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170495.png"
+  },
+  "Stainless Steel Screw": {
+    "chn": "不锈钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45333.png"
+  },
+  "Neutronium Screw": {
+    "chn": "中子素螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57331.png"
+  },
+  "Titanium Screw": {
+    "chn": "钛螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51362.png"
+  },
+  "Steel Screw": {
+    "chn": "钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45332.png"
+  },
+  "Tungsten Screw": {
+    "chn": "钨螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57329.png"
+  },
+  "Tungstensteel Screw": {
+    "chn": "钨钢螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45334.png"
+  },
+  "Iron Screw": {
+    "chn": "铁螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/43519.png"
+  },
+  "Chrome Screw": {
+    "chn": "铬螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57328.png"
+  },
+  "Iridium Screw": {
+    "chn": "铱螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57330.png"
+  },
+  "Osmium Screw": {
+    "chn": "锇螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64948.png"
+  },
+  "Tin Screw": {
+    "chn": "锡螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45330.png"
+  },
+  "Wrought Iron Screw": {
+    "chn": "锻铁螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57332.png"
+  },
+  "Bronze Screw": {
+    "chn": "青铜螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/45331.png"
+  },
+  "HSS-E Screw": {
+    "chn": "高速钢-E螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57334.png"
+  },
+  "HSS-G Screw": {
+    "chn": "高速钢-G螺丝",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57333.png"
+  }
+}

@@ -7,11 +7,17 @@
     <groupId>site.superice</groupId>
     <artifactId>ModArt</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>DataSet</module>
+        <module>TextureArt</module>
+        <module>ColorPortal</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    
+
 </project>

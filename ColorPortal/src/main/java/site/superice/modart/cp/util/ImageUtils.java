@@ -1,4 +1,4 @@
-package texture.util;
+package site.superice.modart.cp.util;
 
 import org.jetbrains.annotations.NotNull;
 

@@ -1,0 +1,46 @@
+{
+  "Steel Plate": {
+    "chn": "钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30930.png"
+  },
+  "Electrum Plate": {
+    "chn": "琥珀金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78250.png"
+  },
+  "Gold Plate": {
+    "chn": "金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78251.png"
+  },
+  "Constantan Plate": {
+    "chn": "康铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30929.png"
+  },
+  "Aluminium Plate": {
+    "chn": "铝板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30927.png"
+  },
+  "Nickel Plate": {
+    "chn": "镍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78248.png"
+  },
+  "Lead Plate": {
+    "chn": "铅板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30928.png"
+  },
+  "Iron Plate": {
+    "chn": "铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/3/30926.png"
+  },
+  "Copper Plate": {
+    "chn": "铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78246.png"
+  },
+  "Silver Plate": {
+    "chn": "银板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78247.png"
+  },
+  "Uranium Plate": {
+    "chn": "铀板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/7/78249.png"
+  }
+}

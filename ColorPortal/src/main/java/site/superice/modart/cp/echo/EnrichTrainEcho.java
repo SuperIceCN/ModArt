@@ -1,8 +1,8 @@
-package texture.echo;
+package site.superice.modart.cp.echo;
 
 import ai.djl.Device;
 import ai.djl.translate.TranslateException;
-import site.superice.modart.texture.data.EnrichmentDataSet;
+import site.superice.modart.cp.data.EnrichmentDataSet;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
@@ -34,7 +34,7 @@ public class EnrichTrainEcho {
         for (int i = 0; i < 4; i++) {
             System.out.println("Start training: tier " + i);
             try {
-                trainer.train(Paths.get("./TextureArt/target/model/echo"), 8,
+                trainer.train(Paths.get("./ColorPortal/src/main/resources/model/base"), 8,
                         EnrichmentDataSet.builder().addImages(trainList).setSampling(batchSize, true)
                                 .optDevice(Device.gpu()).build(),
                         EnrichmentDataSet.builder().addImages(testList).setSampling(batchSize, true)

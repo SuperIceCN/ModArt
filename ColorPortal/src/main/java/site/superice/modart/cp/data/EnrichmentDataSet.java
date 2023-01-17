@@ -1,4 +1,4 @@
-package texture.data;
+package site.superice.modart.cp.data;
 
 import ai.djl.modality.cv.Image;
 import ai.djl.modality.cv.util.NDImageUtils;
@@ -6,17 +6,13 @@ import ai.djl.ndarray.NDList;
 import ai.djl.ndarray.NDManager;
 import ai.djl.training.dataset.RandomAccessDataset;
 import ai.djl.training.dataset.Record;
-import ai.djl.translate.TranslateException;
 import ai.djl.util.Progress;
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 
 import java.awt.image.BufferedImage;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import static site.superice.modart.texture.data.EchoDataSet.toNDArray;
 
 public class EnrichmentDataSet extends RandomAccessDataset {
     protected final List<BufferedImage> imageList;
@@ -27,16 +23,16 @@ public class EnrichmentDataSet extends RandomAccessDataset {
     }
 
     @Override
-    public Record get(NDManager manager, long index) throws IOException {
+    public Record get(NDManager manager, long index) {
         var valId = (int) index / imageList.size();
         var keyId = (int) index % imageList.size();
         var imageData = EchoDataSet.resize32Image(imageList.get(keyId));
         var labelData = imageList.get(valId);
         EchoDataSet.process(imageData, labelData);
-        var dataTensor = NDImageUtils.toTensor(toNDArray(manager, imageData, Image.Flag.COLOR));
+        var dataTensor = NDImageUtils.toTensor(EchoDataSet.toNDArray(manager, imageData, Image.Flag.COLOR));
         dataTensor.setRequiresGradient(true);
         var dataNDList = new NDList(dataTensor);
-        var labelNDList = new NDList(NDImageUtils.toTensor(toNDArray(manager, labelData, Image.Flag.COLOR)));
+        var labelNDList = new NDList(NDImageUtils.toTensor(EchoDataSet.toNDArray(manager, labelData, Image.Flag.COLOR)));
         return new Record(dataNDList, labelNDList);
     }
 
@@ -46,7 +42,7 @@ public class EnrichmentDataSet extends RandomAccessDataset {
     }
 
     @Override
-    public void prepare(Progress progress) throws IOException, TranslateException {
+    public void prepare(Progress progress) {
 
     }
 

@@ -1,0 +1,78 @@
+{
+  "Platinum Plate": {
+    "chn": "铂板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49001.png"
+  },
+  "Steel Plate": {
+    "chn": "钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49004.png"
+  },
+  "Electrum Plate": {
+    "chn": "琥珀金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49005.png"
+  },
+  "Gold Plate": {
+    "chn": "金板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48926.png"
+  },
+  "Constantan Plate": {
+    "chn": "康铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49008.png"
+  },
+  "Lumium Plate": {
+    "chn": "流明板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49010.png"
+  },
+  "Aluminum Plate": {
+    "chn": "铝板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48999.png"
+  },
+  "Enderium Plate": {
+    "chn": "末影板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49011.png"
+  },
+  "Nickel Plate": {
+    "chn": "镍板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49000.png"
+  },
+  "Lead Plate": {
+    "chn": "铅板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48998.png"
+  },
+  "Bronze Plate": {
+    "chn": "青铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49007.png"
+  },
+  "Iron Plate": {
+    "chn": "铁板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48925.png"
+  },
+  "Copper Plate": {
+    "chn": "铜板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48995.png"
+  },
+  "Tin Plate": {
+    "chn": "锡板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48996.png"
+  },
+  "Signalum Plate": {
+    "chn": "信素板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49009.png"
+  },
+  "Iridium Plate": {
+    "chn": "铱板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49002.png"
+  },
+  "Invar Plate": {
+    "chn": "殷钢板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49006.png"
+  },
+  "Silver Plate": {
+    "chn": "银板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/48997.png"
+  },
+  "Mana Infused Plate": {
+    "chn": "蕴魔秘银板",
+    "url": "https://i.mcmod.cn/item/icon/32x32/4/49003.png"
+  }
+}

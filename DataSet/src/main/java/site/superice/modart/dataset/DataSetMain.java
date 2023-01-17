@@ -1,4 +1,4 @@
 package site.superice.modart.dataset;
 
-public class DataSet {
+public class DataSetMain {
 }

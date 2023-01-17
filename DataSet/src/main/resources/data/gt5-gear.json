@@ -1,0 +1,70 @@
+{
+  "Iron Gear": {
+    "chn": "铁齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170798.png"
+  },
+  "Copper Gear": {
+    "chn": "铜齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170799.png"
+  },
+  "Tin Gear": {
+    "chn": "锡齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170800.png"
+  },
+  "Gold Gear": {
+    "chn": "金齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170801.png"
+  },
+  "Stone Gear": {
+    "chn": "石齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170802.png"
+  },
+  "Diamond Gear": {
+    "chn": "钻石齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170803.png"
+  },
+  "Wood Gear": {
+    "chn": "木齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170804.png"
+  },
+  "Stainless Steel Gear": {
+    "chn": "不锈钢齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/50629.png"
+  },
+  "Neutronium Gear": {
+    "chn": "中子素齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57465.png"
+  },
+  "Titanium Gear": {
+    "chn": "钛齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57464.png"
+  },
+  "Steel Gear": {
+    "chn": "钢齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/50627.png"
+  },
+  "Tungstensteel Gear": {
+    "chn": "钨钢齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57466.png"
+  },
+  "Cobalt Brass Gear": {
+    "chn": "钴黄铜齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/51196.png"
+  },
+  "Aluminium Gear": {
+    "chn": "铝齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/50628.png"
+  },
+  "Bronze Gear": {
+    "chn": "青铜齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/52138.png"
+  },
+  "HSS-E Gear": {
+    "chn": "高速钢-E齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57468.png"
+  },
+  "HSS-G Gear": {
+    "chn": "高速钢-G齿轮",
+    "url": "https://i.mcmod.cn/item/icon/32x32/5/57467.png"
+  }
+}

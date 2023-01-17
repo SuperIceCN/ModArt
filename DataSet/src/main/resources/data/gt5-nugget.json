@@ -1,0 +1,402 @@
+{
+  "Lithium Nugget": {
+    "chn": "锂粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64877.png"
+  },
+  "Beryllium Nugget": {
+    "chn": "铍粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64878.png"
+  },
+  "Magnesium Nugget": {
+    "chn": "镁粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64879.png"
+  },
+  "Manganese Nugget": {
+    "chn": "锰粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64880.png"
+  },
+  "Cobalt Nugget": {
+    "chn": "钴粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64881.png"
+  },
+  "Nickel Nugget": {
+    "chn": "镍粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64882.png"
+  },
+  "Copper Nugget": {
+    "chn": "铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64883.png"
+  },
+  "Zinc Nugget": {
+    "chn": "锌粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64884.png"
+  },
+  "Molybdenum Nugget": {
+    "chn": "钼粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64885.png"
+  },
+  "Silver Nugget": {
+    "chn": "银粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64886.png"
+  },
+  "Indium Nugget": {
+    "chn": "铟粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64887.png"
+  },
+  "Tin Nugget": {
+    "chn": "锡粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64888.png"
+  },
+  "Antimony Nugget": {
+    "chn": "锑粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64889.png"
+  },
+  "Tantalum Nugget": {
+    "chn": "钽粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64890.png"
+  },
+  "Platinum Nugget": {
+    "chn": "铂粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64891.png"
+  },
+  "Lead Nugget": {
+    "chn": "铅粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64892.png"
+  },
+  "Bismuth Nugget": {
+    "chn": "铋粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64893.png"
+  },
+  "Thorium Nugget": {
+    "chn": "钍粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64894.png"
+  },
+  "Uranium 235 Nugget": {
+    "chn": "铀-235粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64895.png"
+  },
+  "Uranium 238 Nugget": {
+    "chn": "铀-238粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64896.png"
+  },
+  "Plutonium 241 Nugget": {
+    "chn": "钚-241粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64897.png"
+  },
+  "Neutronium Nugget": {
+    "chn": "中子素粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64898.png"
+  },
+  "Neodymium Nugget": {
+    "chn": "钕粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64899.png"
+  },
+  "Tungsten Nugget": {
+    "chn": "钨粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64900.png"
+  },
+  "Aluminium Nugget": {
+    "chn": "铝粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64901.png"
+  },
+  "Bronze Nugget": {
+    "chn": "青铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64902.png"
+  },
+  "Brass Nugget": {
+    "chn": "黄铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64903.png"
+  },
+  "Electrum Nugget": {
+    "chn": "琥珀金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64904.png"
+  },
+  "Invar Nugget": {
+    "chn": "殷钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64905.png"
+  },
+  "Steel Nugget": {
+    "chn": "钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64906.png"
+  },
+  "Stainless Steel Nugget": {
+    "chn": "不锈钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64907.png"
+  },
+  "Cupronickel Nugget": {
+    "chn": "白铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64908.png"
+  },
+  "Magnalium Nugget": {
+    "chn": "镁铝合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64909.png"
+  },
+  "Soldering Alloy Nugget": {
+    "chn": "焊锡粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64910.png"
+  },
+  "Battery Alloy Nugget": {
+    "chn": "电池合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64911.png"
+  },
+  "Tungstensteel Nugget": {
+    "chn": "钨钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64912.png"
+  },
+  "Damascus Steel Nugget": {
+    "chn": "大马士革钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64913.png"
+  },
+  "Annealed Copper Nugget": {
+    "chn": "退火铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64914.png"
+  },
+  "Sterling Silver Nugget": {
+    "chn": "标准纯银粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64915.png"
+  },
+  "HSS-G Nugget": {
+    "chn": "高速钢-G粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64916.png"
+  },
+  "HSS-E Nugget": {
+    "chn": "高速钢-E粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64917.png"
+  },
+  "Polyethylene Chip": {
+    "chn": "聚乙烯颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/6/64918.png"
+  },
+  "Carbon Nugget": {
+    "chn": "碳粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170079.png"
+  },
+  "Silicon Nugget": {
+    "chn": "硅粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170080.png"
+  },
+  "Potassium Nugget": {
+    "chn": "钾粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170081.png"
+  },
+  "Titanium Nugget": {
+    "chn": "钛粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170082.png"
+  },
+  "Vanadium Nugget": {
+    "chn": "钒粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170083.png"
+  },
+  "Chrome Nugget": {
+    "chn": "铬粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170084.png"
+  },
+  "Gallium Nugget": {
+    "chn": "镓粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170085.png"
+  },
+  "Arsenic Nugget": {
+    "chn": "砷粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170086.png"
+  },
+  "Yttrium Nugget": {
+    "chn": "钇粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170087.png"
+  },
+  "Niobium Nugget": {
+    "chn": "铌粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170088.png"
+  },
+  "Palladium Nugget": {
+    "chn": "钯粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170089.png"
+  },
+  "Caesium Nugget": {
+    "chn": "铯粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170090.png"
+  },
+  "Cerium Nugget": {
+    "chn": "铈粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170091.png"
+  },
+  "Europium Nugget": {
+    "chn": "铕粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170092.png"
+  },
+  "Lutetium Nugget": {
+    "chn": "镥粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170093.png"
+  },
+  "Osmium Nugget": {
+    "chn": "锇粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170094.png"
+  },
+  "Iridium Nugget": {
+    "chn": "铱粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170095.png"
+  },
+  "Plutonium 239 Nugget": {
+    "chn": "钚-239粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170096.png"
+  },
+  "Americium Nugget": {
+    "chn": "镅粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170097.png"
+  },
+  "Pig Iron Nugget": {
+    "chn": "生铁粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170098.png"
+  },
+  "Red Alloy Nugget": {
+    "chn": "红色合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170099.png"
+  },
+  "Nichrome Nugget": {
+    "chn": "镍铬合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170100.png"
+  },
+  "Kanthal Nugget": {
+    "chn": "坝塔尔合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170101.png"
+  },
+  "Osmiridium Nugget": {
+    "chn": "铱锇合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170102.png"
+  },
+  "Naquadah Nugget": {
+    "chn": "硅岩粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170103.png"
+  },
+  "Naquadah Alloy Nugget": {
+    "chn": "硅岩合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170104.png"
+  },
+  "Enriched Naquadah Nugget": {
+    "chn": "富集硅岩粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170105.png"
+  },
+  "Naquadria Nugget": {
+    "chn": "超能硅岩粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170106.png"
+  },
+  "Duranium Nugget": {
+    "chn": "铿铀粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170107.png"
+  },
+  "Tritanium Nugget": {
+    "chn": "三钛粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170108.png"
+  },
+  "Mithril Nugget": {
+    "chn": "秘银粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170109.png"
+  },
+  "Black Steel Nugget": {
+    "chn": "黑钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170110.png"
+  },
+  "Cobalt Brass Nugget": {
+    "chn": "钴黄铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170111.png"
+  },
+  "Ultimet Nugget": {
+    "chn": "哈氏合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170112.png"
+  },
+  "Red Steel Nugget": {
+    "chn": "红钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170113.png"
+  },
+  "Blue Steel Nugget": {
+    "chn": "蓝钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170114.png"
+  },
+  "Rose Gold Nugget": {
+    "chn": "玫瑰金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170115.png"
+  },
+  "Black Bronze Nugget": {
+    "chn": "黑青铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170116.png"
+  },
+  "Bismuth Bronze Nugget": {
+    "chn": "铋青铜粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170117.png"
+  },
+  "Magnetic Iron Nugget": {
+    "chn": "磁化铁粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170118.png"
+  },
+  "Magnetic Steel Nugget": {
+    "chn": "磁化钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170119.png"
+  },
+  "Magnetic Neodymium Nugget": {
+    "chn": "磁化钕粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170120.png"
+  },
+  "Vanadium-Gallium Nugget": {
+    "chn": "钒镓合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170121.png"
+  },
+  "Yttrium Barium Cuprate Nugget": {
+    "chn": "钇钡铜氧合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170122.png"
+  },
+  "Niobium Nitride Nugget": {
+    "chn": "氮化铌粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170123.png"
+  },
+  "Niobium-Titanium Nugget": {
+    "chn": "铌钛合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170124.png"
+  },
+  "Tin Alloy Nugget": {
+    "chn": "锡铁合金粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170125.png"
+  },
+  "Tungstencarbide Nugget": {
+    "chn": "碳化钨粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170126.png"
+  },
+  "Vanadiumsteel Nugget": {
+    "chn": "钒钢粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170127.png"
+  },
+  "HSS-S Nugget": {
+    "chn": "高速钢-S粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170128.png"
+  },
+  "Epoxy Resin Chip": {
+    "chn": "环氧树脂颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170129.png"
+  },
+  "Silicone Rubber Chip": {
+    "chn": "硅橡胶颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170130.png"
+  },
+  "Polycaprolactam Chip": {
+    "chn": "聚己内酰胺颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170131.png"
+  },
+  "Polytetrafluoroethylene Chip": {
+    "chn": "聚四氟乙烯颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170132.png"
+  },
+  "Fiber-Reinforced Epoxy Resin Chip": {
+    "chn": "纤维强化的环氧树脂颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170133.png"
+  },
+  "Borosilicate Glass Chip": {
+    "chn": "硼玻璃颗粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170134.png"
+  },
+  "Nickel-Zinc Ferrite Nugget": {
+    "chn": "镍锌铁氧体粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170135.png"
+  },
+  "Polyphenylene Sulfide Nugget": {
+    "chn": "聚苯硫醚粒",
+    "url": "https://i.mcmod.cn/item/icon/32x32/17/170136.png"
+  }
+}

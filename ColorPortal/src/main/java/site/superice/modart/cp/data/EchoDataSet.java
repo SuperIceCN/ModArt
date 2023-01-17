@@ -1,4 +1,4 @@
-package texture.data;
+package site.superice.modart.cp.data;
 
 import ai.djl.modality.cv.Image;
 import ai.djl.modality.cv.util.NDImageUtils;
@@ -18,8 +18,8 @@ import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import site.superice.modart.dataset.DataSetMain;
-import site.superice.modart.texture.util.ImageUtils;
-import site.superice.modart.texture.util.StringUtils;
+import site.superice.modart.cp.util.ImageUtils;
+import site.superice.modart.cp.util.StringUtils;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
@@ -75,8 +75,6 @@ public class EchoDataSet extends RandomAccessDataset {
         }
         return allImageEntries;
     }
-
-    ;
 
     private final Table<String, String, String> imageTable = HashBasedTable.create();
     private final List<String> imagePathEntries;
@@ -188,7 +186,7 @@ public class EchoDataSet extends RandomAccessDataset {
                 BufferedImage image;
                 BufferedImage label;
                 for (int i = 0; i < ((length - 1) / imagePathEntries.size() + 1); i++) {
-                    // 在这里通过旋转调整数据集多样性
+                    // Adjust the diversity of data set by rotation here
                     var rotateDegree = ThreadLocalRandom.current().nextInt(12) * 30;
                     var mirrorLR = ThreadLocalRandom.current().nextBoolean();
                     var mirrorUD = ThreadLocalRandom.current().nextBoolean();
@@ -233,6 +231,7 @@ public class EchoDataSet extends RandomAccessDataset {
         var paletteArray = ColorThief.getPalette(image, 8, 5, true);
         var palette = new ArrayList<Integer>();
         if (paletteArray != null) {
+            // Tabling is the most intuitive way in the coding world
             byte[] repeatSize = switch (paletteArray.length) {
                 case 1 -> new byte[]{8};
                 case 2 -> new byte[]{4, 4};
