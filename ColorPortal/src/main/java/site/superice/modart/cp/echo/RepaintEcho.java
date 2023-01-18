@@ -23,9 +23,9 @@ import java.nio.file.Paths;
 
 public class RepaintEcho {
     public static void main(String[] args) {
-        var modelPath = Paths.get("./ColorPortal/src/main/resources/model/base");
-        var inputImagePath = Paths.get("./DataSet/src/main/resources/color/gt5-plate/Amethyst Plate.png");
-        var colorImagePath = Paths.get("./DataSet/src/main/resources/color/gt5-rod/Blue Steel Rod.png");
+        var modelPath = Paths.get("./ColorPortal/src/main/resources/model/ingot");
+        var inputImagePath = Paths.get("./DataSet/src/main/resources/color/ie-ingot/Silver Ingot.png");
+        var colorImagePath = Paths.get("./ColorPortal/target/input/color/basic_electric_machine_top.png");
 
         try (var model = Model.newInstance("cp")) {
             model.setBlock(TrainEcho.buildBlocks());
